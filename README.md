@@ -2,7 +2,7 @@
 
 ## Desenvolvedor de Software | Estudante de Tecnologia
 
-![Minha Foto](https://preview.redd.it/uma-caricatura-normal-de-ronaldinho-ga%C3%BAcho-v0-h5efg7zxjzif1.jpeg?auto=webp&s=194cfb9736345ef0d6f9cffd6bbdc499ab971e28)
+![Minha Foto](https://avatars.githubusercontent.com/u/147887784?v=4)
 
 Bem-vindo ao meu currículo web. Conecte-se comigo:
 
