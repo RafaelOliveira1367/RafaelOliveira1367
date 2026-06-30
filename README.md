@@ -17,3 +17,13 @@ Intermediário |
 | **Sistemas** | Linux, Windows | Avançado
 |
 ```
+
+## Objetivos Atuais e Futuros
+-[x] Criar currículo web no GitHub
+-[x] Dominar sintaxe básica do
+Markdown
+-[] Aprender conceitos avançados
+de versionamento
+-[ ] Contribuir para um projeto
+Open Source
+-[ ] Conquistar a primeira vaga como Desenvolvedor Júnior
