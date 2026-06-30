@@ -1,9 +1,9 @@
 # Olá, eu sou Rafael Ricardo!
 ## Desenvolvedor de Software | Estudante de Tecnologia
-![Minha Foto] https://avatars.githubusercontent.com/u/147887784?v=4&size=64
+![Minha Foto] (https://preview.redd.it/uma-caricatura-normal-de-ronaldinho-ga%C3%BAcho-v0-h5efg7zxjzif1.jpeg?auto=webp&s=194cfb9736345ef0d6f9cffd6bbdc499ab971e28)
 Bem-vindo ao meu currículo web. Conecte-se comigo:
-* [LinkedIn] https://www.linkedin.com/in/rafael-ricardo-a54a64314/
-* [E-mail] mailto:rafasantos9007@gmail.com
+* [LinkedIn] (https://www.linkedin.com/in/rafael-ricardo-a54a64314/)
+* [E-mail] (mailto:rafasantos9007@gmail.com)
 
 ```markdown
 ## Minhas Habilidades
